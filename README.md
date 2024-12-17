@@ -4,7 +4,7 @@ If you have broken your keyboard, you have repaired it, you want to buy a used o
 You can use this simple python code, all it does is display the key pressed on the screen
 It's a very simple but functional code
 
-Requirements:
+### Requirements:
 - A keyboard (lol)
 - Have python installed
 - You will need the python dependency pyinput, you can install it by typing in your preferred terminal: pip install pynput
