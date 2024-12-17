@@ -5,9 +5,8 @@ You can use this simple python code, all it does is display the key pressed on t
 It's a very simple but functional code
 
 Requirements:
-A keyboard (lol)
-Have python installed
-You will need the python dependency pyinput
-You can install it by typing in your preferred terminal: pip install pynput
+- A keyboard (lol)
+- Have python installed
+- You will need the python dependency pyinput, you can install it by typing in your preferred terminal: pip install pynput
 
 ![](https://github.com/niko-forte/keyboard-tester/blob/main/tester.bmp)
