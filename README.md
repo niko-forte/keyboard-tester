@@ -9,3 +9,5 @@ A keyboard (lol)
 Have python installed
 You will need the python dependency pyinput
 You can install it by typing in your preferred terminal: pip install pynput
+
+![](https://github.com/niko-forte/keyboard-tester/blob/main/tester.bmp)
