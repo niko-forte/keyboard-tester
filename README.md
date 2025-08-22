@@ -8,5 +8,5 @@ It's a very simple but functional code
 - A keyboard (lol)
 - Have python installed
 - You will need the python dependency pyinput, you can install it by typing in your preferred terminal: pip install pynput
-
+ 
 ![](https://github.com/niko-forte/keyboard-tester/blob/main/tester.bmp)
